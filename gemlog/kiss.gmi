@@ -1,3 +1,9 @@
 # Keep it simple, dumbass
 
-I've been struggling for a long time with how to deal with note taking and "second brain" on my laptop, which is a Chromebook with a 32-bit ARM chip. It doesn't run Obsidian or really anything else useful, but I figure even if I can't reference everything I'll at least be able to write. Using what? GEdit. Heh. It parses Markdown, and it works great for this blog too.
+I've been struggling for a long time with how to deal with note taking and "second brain" on my laptop, which is a Chromebook with a 32-bit ARM chip. It doesn't run Obsidian or really anything else useful, but I figure even if I can't reference everything I'll at least be able to write. Using what? GEdit. Heh. 
+
+It parses Markdown, and it works great for this blog too. For sync? Git. 
+
+One thing I think we're spoiled with these days is the idea that all tools should have a similar experience cross-platform. And if you're not willing to do things on the web (frankly, this old thing does not perform well on a tool like Notion anyway) you have to accept some reduced slickness.
+
+I'm ok with that. I'm here, aren't I?
