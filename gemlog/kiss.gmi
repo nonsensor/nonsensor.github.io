@@ -1,0 +1,3 @@
+# Keep it simple, dumbass
+
+I've been struggling for a long time with how to deal with note taking and "second brain" on my laptop, which is a Chromebook with a 32-bit ARM chip. It doesn't run Obsidian or really anything else useful, but I figure even if I can't reference everything I'll at least be able to write. Using what? GEdit. Heh. It parses Markdown, and it works great for this blog too.
