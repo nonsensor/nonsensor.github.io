@@ -1,0 +1,8 @@
+# How I use the Alesis HR-16
+
+The HR-16 is iconic for some people. Especially if you've ever been a fan of Godflesh, who used it before moving to its replacement, the SR-16. Of course the SR-16 may be both the most ubiquitous drum machine on earth and the least interesting. But something about its predecessor is fun. It only has one kit, but you can pretty easily find ROM chips that have been loaded with others. I did this, with an LM-1 kit specifically modeled after how Prince used the LM-1. Here's how I use it:
+
+* Loaded with the LM-1 ROM chip 
+* Pan the kick to Output 1 hard left and the snare to Output 1 hard right, then spread the rest across the stereo field of Output 2. Then the kick and snare can be on their own channels to compress and in the case of snare, delay and overdrive. Usually it's a short analog delay with a bunch of repeats. The combination of those can turn these drums huge. A little flange wouldn't hurt either if you're trying to do the Prince thing, which I'm not but I wouldn't blame you if you were.
+* The internal sequencer is great. If you're using it with its sibling the MMT-8, you can save yourself a track by using its own patterns. And it has a timing all its own. A little behind the beat, although possibly that's how the samples are cut.
+* Fun fact that most modern users of the HR-16 and MMT-8 have probably noticed: the weird shape accommodates a Volca pretty nicely.
