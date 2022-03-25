@@ -5,4 +5,7 @@ The HR-16 is iconic for some people. Especially if you've ever been a fan of God
 * Loaded with the LM-1 ROM chip 
 * Pan the kick to Output 1 hard left and the snare to Output 1 hard right, then spread the rest across the stereo field of Output 2. Then the kick and snare can be on their own channels to compress and in the case of snare, delay and overdrive. Usually it's a short analog delay with a bunch of repeats. The combination of those can turn these drums huge. A little flange wouldn't hurt either if you're trying to do the Prince thing, which I'm not but I wouldn't blame you if you were.
 * The internal sequencer is great. If you're using it with its sibling the MMT-8, you can save yourself a track by using its own patterns. And it has a timing all its own. A little behind the beat, although possibly that's how the samples are cut.
+* I use it primarily to add punch. The low frequencies of the kick and the electronic texture of the hats from the Volca Beats are great, but the HR's kick adds a little more attack.
 * Fun fact that most modern users of the HR-16 and MMT-8 have probably noticed: the weird shape accommodates a Volca pretty nicely.
+
+=>https://www.vintagesynth.com/misc/hr16.php HR-16 at Vintage Synth Explorer
