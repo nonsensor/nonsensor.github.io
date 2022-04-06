@@ -36,3 +36,5 @@
 | Frankenweenie                         | Spooky/Comedy      | Disney+                                                | &check;      |
 | Dark Crystal                          | Adventure          | Disney+                                                | &check;      |
 | Coraline                              | Adventure          | ?                                                       | ?            |
+| Anything Abel Ferrara			| Crime		     | ?							| NO		|
+| Bad Lieutenant: Port of Call New Orleans | Crime/Drama	| Kanopy						| No		|
